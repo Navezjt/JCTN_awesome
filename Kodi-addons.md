@@ -1,6 +1,6 @@
 <p align="center"><img src="img/best-kodi-addons.jpg" alt="iptv" width="auto" height="200"></p>
 
-# Kodi 插件推荐 
+# Kodi 插件推荐
 
 ## Kodi 插件库下载
 
